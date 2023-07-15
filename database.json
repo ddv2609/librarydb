@@ -12,8 +12,12 @@
       "cover": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/covers%2F1%2F1984.png?alt=media&token=173ef66e-be35-4767-bff1-fa960d00c643",
       "price": 689500,
       "saleOff": 0,
-      "stars": 70,
-      "votes": 17
+      "stars": 73,
+      "votes": 18,
+      "booksBody": {
+        "stars": 71,
+        "votes": 17
+      }
     },
     {
       "id": 2,
@@ -27,8 +31,8 @@
       "cover": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/covers%2F2%2Fanna-karenina.jpg?alt=media&token=e2790e22-1226-42e6-ae47-4496247c9c4a",
       "price": 269400,
       "saleOff": 0,
-      "stars": 67,
-      "votes": 17
+      "stars": 71,
+      "votes": 18
     },
     {
       "id": 3,
@@ -132,8 +136,8 @@
       "cover": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/covers%2F9%2Fto-kill-a-mockingbird.jpg?alt=media&token=74f6817b-7e2f-4ba6-a610-ab746b267201",
       "price": 309000,
       "saleOff": 0.25,
-      "stars": 106,
-      "votes": 29
+      "stars": 110,
+      "votes": 30
     },
     {
       "id": 10,
@@ -147,8 +151,8 @@
       "cover": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/covers%2F10%2Fthe-brothers-karamazov.jpg?alt=media&token=e4070cb6-25cc-40e6-b60d-42221a214994",
       "price": 217500,
       "saleOff": 0.1,
-      "stars": 151,
-      "votes": 42
+      "stars": 154,
+      "votes": 43
     },
     {
       "id": 11,
@@ -432,8 +436,8 @@
       "cover": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/covers%2F29%2Fwuthering-heights.jpg?alt=media&token=9a4ab1da-257f-4512-a889-8fbd9f0748b5",
       "price": 295700,
       "saleOff": 0.13,
-      "stars": 210,
-      "votes": 52
+      "stars": 215,
+      "votes": 53
     },
     {
       "id": 30,
@@ -777,8 +781,8 @@
       "cover": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/covers%2F52%2Fthe-book-thief.jpg?alt=media&token=43cecd69-6075-4f5c-b9d3-f5ef390bb73e",
       "price": 469000,
       "saleOff": 0.15,
-      "stars": 304,
-      "votes": 80
+      "stars": 308,
+      "votes": 81
     },
     {
       "id": 53,
@@ -1242,8 +1246,8 @@
       "cover": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/covers%2F83%2Fthe-goldfinch.jpg?alt=media&token=39165abc-b891-4a25-b876-0a7c4dd8d856",
       "price": 295700,
       "saleOff": 0.13,
-      "stars": 214,
-      "votes": 53
+      "stars": 218,
+      "votes": 54
     },
     {
       "id": 84,
@@ -1351,110 +1355,17 @@
       "votes": 53
     }
   ],
-  "categories": [
-    {
-      "id": 1,
-      "category": "Adventure stories"
-    },
-    {
-      "id": 2,
-      "category": "Classics"
-    },
-    {
-      "id": 3,
-      "category": "Crime"
-    },
-    {
-      "id": 4,
-      "category": "Fairy tales, fables, and folk tales"
-    },
-    {
-      "id": 5,
-      "category": "Fantasy"
-    },
-    {
-      "id": 6,
-      "category": "Historical fiction"
-    },
-    {
-      "id": 7,
-      "category": "Horror"
-    },
-    {
-      "id": 8,
-      "category": "Humour and satire"
-    },
-    {
-      "id": 9,
-      "category": "Literary fiction"
-    },
-    {
-      "id": 10,
-      "category": "Mystery"
-    },
-    {
-      "id": 11,
-      "category": "Poetry"
-    },
-    {
-      "id": 12,
-      "category": "Plays"
-    },
-    {
-      "id": 13,
-      "category": "Romance"
-    },
-    {
-      "id": 14,
-      "category": "Science fiction"
-    },
-    {
-      "id": 15,
-      "category": "Short stories"
-    },
-    {
-      "id": 16,
-      "category": "War"
-    },
-    {
-      "id": 17,
-      "category": "Women’s fiction"
-    },
-    {
-      "id": 18,
-      "category": "Young adult"
-    },
-    {
-      "id": 19,
-      "category": "Autobiography and memoir"
-    },
-    {
-      "id": 20,
-      "category": "Biography"
-    },
-    {
-      "id": 21,
-      "category": "Essays"
-    },
-    {
-      "id": 22,
-      "category": "Non-fiction novel"
-    },
-    {
-      "id": 23,
-      "category": "Self-help"
-    }
-  ],
   "comments": [
     {
       "id": 1,
       "contents": [
         {
-          "contentID": 1689135062880,
+          "contentID": 1689323821971,
           "uid": "aD3brbzPq5gJ3SbswksiR5ZCUwy1",
-          "name": "Đỗ Nam",
-          "commentTime": "11:11:02 12/07/2023",
-          "comment": "vien dep trai qua xa"
+          "name": "Đỗ Viên",
+          "avatar": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/avatars%2FaD3brbzPq5gJ3SbswksiR5ZCUwy1%2Favatar.png?alt=media&token=84aed327-7869-4fc7-b8f1-23fbe6e8346b",
+          "commentTime": "15:37:01 14/07/2023",
+          "comment": "Sách khá hay!"
         }
       ]
     },
@@ -1821,6 +1732,10 @@
       "list": [
         {
           "uid": "aD3brbzPq5gJ3SbswksiR5ZCUwy1",
+          "star": 3
+        },
+        {
+          "uid": "06bnkKiOT4XX3mPrDY8MpcSrZMW2",
           "star": 4
         }
       ]
@@ -1830,6 +1745,10 @@
       "list": [
         {
           "uid": "aD3brbzPq5gJ3SbswksiR5ZCUwy1",
+          "star": 4
+        },
+        {
+          "uid": "bMr7KG3teIZQrN8HazqeTQATJqH3",
           "star": 4
         }
       ]
@@ -1860,11 +1779,21 @@
     },
     {
       "id": 9,
-      "list": []
+      "list": [
+        {
+          "uid": "aD3brbzPq5gJ3SbswksiR5ZCUwy1",
+          "star": 4
+        }
+      ]
     },
     {
       "id": 10,
-      "list": []
+      "list": [
+        {
+          "uid": "06bnkKiOT4XX3mPrDY8MpcSrZMW2",
+          "star": 3
+        }
+      ]
     },
     {
       "id": 11,
@@ -1960,7 +1889,12 @@
     },
     {
       "id": 29,
-      "list": []
+      "list": [
+        {
+          "uid": "aD3brbzPq5gJ3SbswksiR5ZCUwy1",
+          "star": 5
+        }
+      ]
     },
     {
       "id": 30,
@@ -2067,7 +2001,12 @@
     },
     {
       "id": 52,
-      "list": []
+      "list": [
+        {
+          "uid": "06bnkKiOT4XX3mPrDY8MpcSrZMW2",
+          "star": 4
+        }
+      ]
     },
     {
       "id": 53,
@@ -2214,7 +2153,11 @@
       "list": [
         {
           "uid": "aD3brbzPq5gJ3SbswksiR5ZCUwy1",
-          "star": 4
+          "star": 3
+        },
+        {
+          "uid": "06bnkKiOT4XX3mPrDY8MpcSrZMW2",
+          "star": 5
         }
       ]
     },
@@ -2257,20 +2200,38 @@
       "id": "aD3brbzPq5gJ3SbswksiR5ZCUwy1",
       "books": [
         {
-          "bookID": 3,
-          "quantity": 2
+          "bookID": 9,
+          "quantity": 1
         },
         {
           "bookID": 1,
-          "quantity": 3
-        },
-        {
-          "bookID": 29,
-          "quantity": 6
+          "quantity": 2
         },
         {
           "bookID": 83,
           "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "06bnkKiOT4XX3mPrDY8MpcSrZMW2",
+      "books": [
+        {
+          "bookID": 1,
+          "quantity": 2
+        },
+        {
+          "bookID": 52,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "bMr7KG3teIZQrN8HazqeTQATJqH3",
+      "books": [
+        {
+          "bookID": 2,
+          "quantity": 2
         }
       ]
     }
@@ -2281,15 +2242,25 @@
       "firstName": "Đỗ",
       "lastName": "Viên",
       "telephone": "0919904032",
-      "avatar": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/avatars%2FaD3brbzPq5gJ3SbswksiR5ZCUwy1%2Favatar.png?alt=media&token=f00b8172-0439-47f3-824e-ab42904142cc",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/avatars%2FaD3brbzPq5gJ3SbswksiR5ZCUwy1%2Favatar.png?alt=media&token=84aed327-7869-4fc7-b8f1-23fbe6e8346b",
       "email": "doducvien26092002@gmail.com",
       "birthday": "2002-09-26"
     },
     {
       "id": "06bnkKiOT4XX3mPrDY8MpcSrZMW2",
       "firstName": "Nguyễn",
-      "lastName": "Nam",
-      "avatar": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/avatars%2F06bnkKiOT4XX3mPrDY8MpcSrZMW2%2Fbackground1.jpg?alt=media&token=54dea391-01fd-4427-b2e9-572e03cdf30a"
+      "lastName": "Hoàng",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/avatars%2F06bnkKiOT4XX3mPrDY8MpcSrZMW2%2Fbackground2.jpg?alt=media&token=70c6410b-33f5-4767-b2e2-3126d7a52594",
+      "email": "nguyennam1012001@gmail.com",
+      "telephone": "0912866457"
+    },
+    {
+      "id": "bMr7KG3teIZQrN8HazqeTQATJqH3",
+      "firstName": "Hoàng",
+      "lastName": "Hà",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/library-cb5ed.appspot.com/o/avatars%2FbMr7KG3teIZQrN8HazqeTQATJqH3%2Ftest.jpg?alt=media&token=9c35ff23-7360-486c-8e45-cda83b88efe8",
+      "email": "hoangha091124@gmail.com",
+      "telephone": "0928263596"
     }
   ]
 }
